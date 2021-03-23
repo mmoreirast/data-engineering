@@ -2,6 +2,8 @@
 
 ## 📌 Informações Gerais
 **Professor:** André Sionek (https://github.com/andresionek91)
+**Carga Horária:** 10 horas.
+
 
 ## 📌 Qual o objetivo do curso?
 <p align=center> <b> Aprender a produtizar sistemas de engenharia de dados. </b></p>
