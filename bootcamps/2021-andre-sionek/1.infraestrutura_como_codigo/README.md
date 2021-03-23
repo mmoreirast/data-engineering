@@ -55,6 +55,8 @@
 3. **Testar o acesso**
 4. **Modificar para permitir somente acesso a partir de endereços de IP específicos**
 
+---
+
 ### 📌 Criando permissões para engenheiro de dados
 
 1. **Criar o template**
@@ -64,6 +66,8 @@
 2. **Deploy usando o console**
 3. **Assumindo a função**
 4. **Testando as permissões**
+
+---
 
 ### 📌 Criando um data stream usando Kinesis
 
@@ -75,6 +79,8 @@
 
     - Criar chave de criptografia
 2. **Testando em tempo real**
+
+---
 
 ### 📌 Deploy Automático de Bucket S3
 
