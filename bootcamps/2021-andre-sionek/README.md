@@ -37,7 +37,7 @@
 - Criando DAG para executar queries SQL
 - **Exercício:** Ingerir dados de uma API pública, processar e disponibilizar
 
-## 📝 Aula 04 — Modelagem de Dados + Portfólio
+### 📝 Aula 04 — Modelagem de Dados + Portfólio
 - Conceitos de DBT
 - Criando modelos e métricas para medir taxa de conversão em sessões web
 - Deploy de DBT em Docker com Airflow
