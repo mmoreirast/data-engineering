@@ -2,6 +2,7 @@
 
 ## 📌 Informações Gerais
 **Professor:** André Sionek (https://github.com/andresionek91)
+
 **Carga Horária:** 10 horas.
 
 
