@@ -5,6 +5,7 @@
 
 **Carga Horária:** 10 horas.
 
+**Data de Conclusão:** 23/03/2021.
 
 ## 📌 Qual o objetivo do curso?
 <p align=center> <b> Aprender a produtizar sistemas de engenharia de dados. </b></p>
