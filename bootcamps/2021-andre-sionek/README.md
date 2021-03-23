@@ -1,10 +1,10 @@
 # 👩‍💻 BootCamp de Engenharia de Dados
 
 ## 📌 Informações Gerais
-*Professor:* André Sionek (https://github.com/andresionek91)
+**Professor:** André Sionek (https://github.com/andresionek91)
 
 ## 📌 Qual o objetivo do curso?
-<p align=center> *Aprender a produtizar sistemas de engenharia de dados*. </p>
+<p align=center> <b> Aprender a produtizar sistemas de engenharia de dados. </b></p>
 
 - Infraestrutura de dados como código
 - Data lakes
